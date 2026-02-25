@@ -39,26 +39,42 @@
 <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 ---
 
-<h3 align="left">📬 Contact Me</h3>
+---
 
-<div align="left" style="
-  border: 2px solid #2c5364;
-  padding: 20px;
-  border-radius: 12px;
-  width: 350px;
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-  color: white;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
-">
+<h3 align="center">📬 Contact Me</h3>
 
-<p><strong>📧 Email:</strong><br>
-<a href="mailto:kabirprasai41@gmail.com" style="color:#00ffff; text-decoration:none;">
-kabirprasai41@gmail.com
-</a></p>
+<div align="center">
+  <div style="
+    border: 2px solid #00ffff;
+    padding: 25px;
+    border-radius: 15px;
+    width: 380px;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: white;
+    box-shadow: 0 0 15px #00ffff80;
+    transition: all 0.4s ease-in-out;
+  "
+  onmouseover="this.style.boxShadow='0 0 30px #00ffff'; this.style.transform='scale(1.05)'"
+  onmouseout="this.style.boxShadow='0 0 15px #00ffff80'; this.style.transform='scale(1)'"
+  >
 
-<p><strong>📞 Phone:</strong><br>
-<a href="tel:9761082425" style="color:#00ffff; text-decoration:none;">
-9761082425
-</a></p>
+  <p style="font-size:18px;">
+    📧 <strong>Email</strong><br>
+    <a href="mailto:kabirprasai41@gmail.com" 
+       style="color:#00ffff; text-decoration:none; font-weight:bold;">
+       kabirprasai41@gmail.com
+    </a>
+  </p>
 
+  <hr style="border: 1px solid #00ffff40; width: 70%;">
+
+  <p style="font-size:18px;">
+    📞 <strong>Phone</strong><br>
+    <a href="tel:9761082425" 
+       style="color:#00ffff; text-decoration:none; font-weight:bold;">
+       9761082425
+    </a>
+  </p>
+
+  </div>
 </div>
