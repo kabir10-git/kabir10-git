@@ -1,4 +1,4 @@
-![logo](https://github.com/kabir10-git/kabir10-git/blob/main/github-header-banner.png)
+![logo](https://github.com/kabir10-git/kabir10-git/blob/main/viber_image_2026-02-25_19-34-23-749.jpg)
 <h1 align="center">Hi 👋, I'm Kabin prasai</h1>
 <h3 align="center">A passionate frontend developer || Nepal</h3>
 
