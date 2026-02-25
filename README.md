@@ -37,3 +37,28 @@
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+---
+
+<h3 align="left">📬 Contact Me</h3>
+
+<div align="left" style="
+  border: 2px solid #2c5364;
+  padding: 20px;
+  border-radius: 12px;
+  width: 350px;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: white;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+">
+
+<p><strong>📧 Email:</strong><br>
+<a href="mailto:kabirprasai41@gmail.com" style="color:#00ffff; text-decoration:none;">
+kabirprasai41@gmail.com
+</a></p>
+
+<p><strong>📞 Phone:</strong><br>
+<a href="tel:9761082425" style="color:#00ffff; text-decoration:none;">
+9761082425
+</a></p>
+
+</div>
